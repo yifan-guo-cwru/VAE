@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+pillow
+tensorflow
+torch
+torchvision
+tqdm
+visdom
+six
